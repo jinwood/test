@@ -1,0 +1,22 @@
+{
+  "cuckoo": {
+    "dev": {
+      "logLevel": "debug",
+      "account": "798941342529",
+      "region": "eu-west-2",
+      "alarmNotificationsTopic": "provisioning-errors"
+    },
+    "stage": {
+      "logLevel": "debug",
+      "account": "798941342529",
+      "region": "eu-west-2",
+      "alarmNotificationsTopic": "provisioning-errors"
+    },
+    "prod": {
+      "logLevel": "debug",
+      "account": "798941342529",
+      "region": "eu-west-2",
+      "alarmNotificationsTopic": "provisioning-errors"
+    }
+  }
+}
